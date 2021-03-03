@@ -1,0 +1,1 @@
+TO_CHAR(datestamp,'yyyymmdd') //this converts a date stamp into a fromat yyyymmdd eg : 2019-02-03 13:23:33 then the output would be 20190203
